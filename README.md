@@ -12,7 +12,7 @@ Le stockage se fait via des **fichiers binaires** `.ing`.
 
 ---
 
-## 🧩 Fonctionnalités
+##  Fonctionnalités
 
 ### Étudiants
 - Saisie d’un étudiant
@@ -34,7 +34,7 @@ Le stockage se fait via des **fichiers binaires** `.ing`.
 
 ---
 
-## 🗂️ Fichiers du projet
+##  Fichiers du projet
 
 - `main.c` : menu principal
 - `etudiant.c / etudiant.h` : gestion étudiants + validation date
@@ -50,7 +50,7 @@ Le stockage se fait via des **fichiers binaires** `.ing`.
 
 ---
 
-## 🛠️ Compilation (Windows/ Linux / macOS / WSL)
+##  Compilation (Windows/ Linux / macOS / WSL)
 
 -Télécharger MinGW (avec GCC) puis vérifier : **gcc --version**
 
